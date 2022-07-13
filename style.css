@@ -1,0 +1,16 @@
+body {
+    background: #111;
+    color: #555;
+    font-family: monospace;
+    font-size: 18px;
+    margin: 0; 
+    overflow:hidden
+    }
+  
+    
+
+  img {
+    display: block;
+    width: 100%; 
+
+}
